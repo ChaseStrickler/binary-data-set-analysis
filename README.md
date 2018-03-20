@@ -1,6 +1,6 @@
 # binary-data-set-analysis
 
-This program reads a .txt file data set of size 1,000 x 1,000. Each element in the data set is either a 0 or 1. 
+This program reads a .txt file data set of size 100 x 100. Each element in the data set is either a 0 or 1. 
 
 The program first reduces the data set down to a 10x10 matrix based on if a column meets the specific threshold, in this case, five. 
 
