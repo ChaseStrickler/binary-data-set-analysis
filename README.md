@@ -6,4 +6,6 @@ The program first reduces the data set down to a 10x10 matrix based on if a colu
 
 After this, it finds, and prints, the maximal sets within the matrix, and keeps track of how many total maximal sets exist.
 
-I was in charge of reducing the matrix based on the threshold.
+I was in charge of input and output as well as reducing the matrix down to a 10x10 based on the threshold.
+
+There are quite a few structural flaws and the code isn't well documented. I may go back and clean up the code and make it expandable for different inputs, however I will likely move on to other projects instead.
