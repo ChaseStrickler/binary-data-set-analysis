@@ -5,3 +5,5 @@ This program reads a .txt file data set of size 100 x 100. Each element in the d
 The program first reduces the data set down to a 10x10 matrix based on if a column meets the specific threshold, in this case, five. 
 
 After this, it finds, and prints, the maximal sets within the matrix, and keeps track of how many total maximal sets exist.
+
+I was in charge of reducing the matrix based on the threshold.
